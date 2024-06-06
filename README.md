@@ -1,3 +1,3 @@
 # gpgtest
 
-signtest4
+signtest5
